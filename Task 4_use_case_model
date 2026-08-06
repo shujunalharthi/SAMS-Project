@@ -1,0 +1,21 @@
+IT-353 System Analysis and Design
+Project: Student Activities Management System (SAMS)
+Task 4 Draft Notes
+Student Name: Ghusun Almalki
+Role: UML Analyst (Person 4)
+
+Actors breakdown for SAMS:
+1. Student: Look up events, register or cancel reservations, check in using QR codes, and see past activities.
+2. Organizer: Create new activities, track attendance, manage waitlists, and issue participation certificates.
+3. Student Affairs: Review and approve proposed activities, handle categories, and check overall engagement stats.
+4. Notification System: Send automated reminders and email notifications to users.
+
+Main Use Cases:
+- Browse and search activities
+- Register for an activity
+- Record attendance via QR
+- Create new activity
+- Approve activity proposal
+
+Notes:
+I defined the main actors and the core use cases for the system. I am currently working on drafting the use case diagram and will prepare the full descriptions for Phase 2.
